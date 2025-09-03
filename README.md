@@ -41,7 +41,3 @@ This project contains automated tests for Sauce Demo website and Restful Booker 
 2. Install Java 11+ and Maven
 3. Run tests: `mvn test`
 4. View reports: `mvn surefire-report:report`
-
-## Author
-
-[Your Name]
